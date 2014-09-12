@@ -6,7 +6,7 @@ if(COCKPIT_ADMIN) {
                
         // menu item
         $app("admin")->menu("top", [
-            "url"    => 'http://mysite.com',
+            "url"    => $app->pathToUrl('site:'),
             "label"  => '<i class="uk-icon-eye"></i>',
             "title"  => $app("i18n")->get("View site")
         ], -1);
