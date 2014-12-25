@@ -3,7 +3,7 @@
 
     $url = $app->pathToUrl('site:');
     $payload = array(
-        'key' => 'YeXuRO7DK0LWX4TyNg57i0M9QPWAxSVZYzIR4evICt55tFuwIE',
+        'key' => 'KJG8NXmqoMgzVAS31Mbh71TSLcV4PiR8dCscRaUJlumIUwpzrB',
         'url' => ' ** YOUR URL HERE ** '
     );
 
