@@ -1,4 +1,6 @@
 <?php
+// Screenshot service provided by Screeenly.com | https://github.com/stefanzweifel/screeenly
+
     $url = $app->pathToUrl('site:');
     $payload = array(
         'key' => 'YeXuRO7DK0LWX4TyNg57i0M9QPWAxSVZYzIR4evICt55tFuwIE',
