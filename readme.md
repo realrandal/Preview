@@ -13,7 +13,7 @@ Also it renders a new dashboard widget with a screenshot of your website so it's
 1. Open the file `dashboard.php` in `modules/addons/Preview/views` in your favorite editor
 2. Change the URL in the `$payload` array where it says `** YOUR URL HERE **` to your website URL
 
-  If it doesn't work the first time you load up Cockpit, just refrech it a coule times
+  If it doesn't work the first time you load up Cockpit, just refresh it a couple of times
 
 <br>
 ##License
