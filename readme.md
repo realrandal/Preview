@@ -8,6 +8,7 @@ Also it renders a new dashboard widget with a screenshot of your website so it's
 1. Download the latest release of Preview
 2. Place the folder `Preview` in `modules/addons` in your Cockpit folder
 <br><br>
+
 ####In order to get the widget to working, you need to specifie the URL yourself
 1. Open the file `dashboard.php` in `modules/addons/Preview/views` in your favorite editor
 2. Change the URL in the `$payload` array to whatever your website URL is
