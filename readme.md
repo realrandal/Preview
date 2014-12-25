@@ -16,6 +16,3 @@ Also it renders a new dashboard widget with a screenshot of your website so it's
 <br>
 ##License
 Preview is licensed under the MIT license
-
-<br><br><br><br>
-This repository is a fork from [realrandal/Preview](https://github.com/realrandal/Preview)
