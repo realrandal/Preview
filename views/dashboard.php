@@ -2,7 +2,7 @@
     $url = $app->pathToUrl('site:');
     $payload = array(
         'key' => 'YeXuRO7DK0LWX4TyNg57i0M9QPWAxSVZYzIR4evICt55tFuwIE',
-        'url' => 'http://ac10.dk/projects/rhinobucket/'
+        'url' => ' ** YOUR URL HERE ** '
     );
 
     $payload = json_encode($payload);
