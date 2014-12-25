@@ -1,6 +1,7 @@
 #Preview
 
-Preview is an addon for [Cockpit CMS](https://github.com/aheinze/cockpit), that adds another menu item that allows you to easily see your website.
+Preview is an addon for [Cockpit CMS](https://github.com/aheinze/cockpit), that adds another menu item that allows you to easily see your website.<br><br>
+Also it renders a new dashboard widget with a screenshot of your website so it's even easier for you to see the changes.
 
 <br>
 ##Installation
