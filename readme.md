@@ -11,7 +11,7 @@ Also it renders a new dashboard widget with a screenshot of your website so it's
 
 ####Widget Installation
 1. Open the file `dashboard.php` in `modules/addons/Preview/views` in your favorite editor
-2. Change the URL in the `$payload` array to whatever your website URL is
+2. Change the URL in the `$payload` array where it says `** YOUR URL HERE **` to your website URL
 
 <br>
 ##License
