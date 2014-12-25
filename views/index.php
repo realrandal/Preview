@@ -8,7 +8,7 @@ $url = $app->pathToUrl('site:');
     <div class="uk-navbar">
         <span class="uk-navbar-brand">@lang('Preview')</span>
         <ul class="uk-navbar-nav">
-            <li><a target="_blank" href="<?php echo $url; ?>" title="@lang('Preview Website')" data-uk-tooltip="{pos:'right'}" data-cached-title="Preview Website"><i class="uk-icon-eye"></i></a></li>
+            <li><a target="_blank" href="<?php echo $url; ?>" title="@lang('View Website')" data-uk-tooltip="{pos:'right'}" data-cached-title="Preview Website"><i class="uk-icon-eye"></i></a></li>
         </ul>
     </div>
 
