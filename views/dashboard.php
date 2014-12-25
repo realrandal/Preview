@@ -3,7 +3,7 @@
     $href = $app->routeUrl("/preview");
     $payload = array(
         'key' => 'KJG8NXmqoMgzVAS31Mbh71TSLcV4PiR8dCscRaUJlumIUwpzrB',
-        'url' => 'http://ac10.dk/projects/rhinobucket/'
+        'url' => ' ** YOUR URL HERE ** '
     );
 
     $payload = json_encode($payload);
