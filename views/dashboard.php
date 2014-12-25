@@ -1,7 +1,6 @@
 <?php
-// Screenshot service provided by Screeenly.com | https://github.com/stefanzweifel/screeenly
-
     $url = $app->pathToUrl('site:');
+    $href = $app->routeUrl("/preview");
     $payload = array(
         'key' => 'KJG8NXmqoMgzVAS31Mbh71TSLcV4PiR8dCscRaUJlumIUwpzrB',
         'url' => ' ** YOUR URL HERE ** '
@@ -28,7 +27,7 @@
 
 
 <div class="uk-margin-bottom">
-    <a target="_blank" href="<?php echo $url; ?>">
+    <a href="<?php echo $href; ?>">
         <img src="<?php echo $path; ?>" alt="Screenshot">
     </a>
 
