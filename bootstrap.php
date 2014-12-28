@@ -10,7 +10,7 @@ if(COCKPIT_ADMIN) {
 		$app("admin")->menu("top", [
 				"url"    => $app->routeUrl("/preview"),
 				"label"  => '<i class="uk-icon-eye"></i>',
-				"title"  => $app("i18n")->get("View site")
+				"title"  => $app("i18n")->get("View Website")
 		], -2);
 		
 	});
