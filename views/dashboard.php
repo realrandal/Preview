@@ -1,8 +1,19 @@
 <?php
     $url = $app->pathToUrl('site:');
     $href = $app->routeUrl("/preview");
+
+    if (!empty(get_registry('screeenly'))) {
+
+        $key = get_registry('screeenly');
+    }
+
+    else {
+        $key = "KJG8NXmqoMgzVAS31Mbh71TSLcV4PiR8dCscRaUJlumIUwpzrB";
+
+    }
+
     $payload = array(
-        'key' => 'KJG8NXmqoMgzVAS31Mbh71TSLcV4PiR8dCscRaUJlumIUwpzrB',
+        'key' => $key,
         'url' => ' ** YOUR URL HERE ** '
     );
 
