@@ -12,6 +12,10 @@ Also it renders a new dashboard widget with a screenshot of your website so it's
 ####Widget Installation
 1. Open the file `dashboard.php` in `modules/addons/Preview/views` in your favorite editor
 2. Change the URL in the `$payload` array where it says `** YOUR URL HERE **` to your website URL
+3. In Cockpit, go to `Settings -> General -> Registry` and add a new key and name it `screeenly`
+4. Go to [Screeenly.com](http://screeenly.com/), create a user, get your API key and paste it into the new key in Cockpit
+ 
+  If you don't do step 4, Cockpit will use a public API key I got from the developer of Screeenly 
 
   If it doesn't work the first time you load up Cockpit, just refresh it a couple of times
 
