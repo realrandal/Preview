@@ -1,8 +1,8 @@
 {
-    "name": "Site Preview",
-    "version": "0.5",
-    "description": "Cockpit CMS site preview button",
-    "homepage": "http://github.com/AC10/Preview/",
-    "check_url": "",
-    "license": "MIT"
+    "name"       : "Preview",
+    "version"    : "A-0.5",
+    "description": "Preview Addon that makes yu easily preview your website",
+    "author"     : "AC10",
+    "homepage"   : "https://github.com/AC10/Preview/",
+    "license"    : "MIT"
 }
